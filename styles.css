@@ -1,0 +1,58 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+
+.container{
+  background-color: #FF8C32;
+  margin-top: 0;
+  padding-bottom: 30px;
+}
+
+.f{
+  background-image: url("images/baya.jpg");
+}
+
+.j{
+  background-image: url("images/dayan.png");
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+#heading{
+  font-size: 5rem;
+  margin: 50px 0;
+  margin-top: 0;
+  padding-top: 50px;
+  font-family: 'Lobster', cursive;
+  color: #fff;
+  text-shadow: 3px 0 #DA0463;
+}
+
+#foot{
+  background-color: #54E346;
+  font-family: sans-serif;
+  padding-top: 100px;
+  padding-bottom: 90px;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
